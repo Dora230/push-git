@@ -1,1 +1,2 @@
 this is file3 for git add
+分支合并中的冲突解决Mian
