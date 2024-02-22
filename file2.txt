@@ -1,1 +1,1 @@
-this is a file in stageed
+this is file2 for git add
