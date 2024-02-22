@@ -1,1 +1,3 @@
 this is file3 for git add
+
+分支合并冲突解决Branch1
